@@ -1,0 +1,11 @@
+User:
+email - alegRTY@gmail.com
+password - AAaasdfg123
+
+Admin:
+email - admin@gmail.com
+password - AAaasdfg123
+
+Worker:
+email - gdfgr45f55dwf@gmail.com
+password - FFpp123pp
